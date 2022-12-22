@@ -1,2 +1,2 @@
 # Rock Paper Scissors
-DO NOT README!
+DO NOT README
